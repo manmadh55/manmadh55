@@ -132,18 +132,4 @@ Helping women restart their careers with AI-powered recommendations.
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-## 🔝 Top Contributed Repo
 
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=manmadh55&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-</p>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-<p align="center">
-⭐ Thanks for visiting my profile! If you like my work, consider giving a ⭐ to my repositories.
-<br/>
-Let's build something amazing together! 🚀
-</p>
