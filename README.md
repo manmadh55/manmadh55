@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/manmadh55"><img src="https://img.shields.io/badge/GitHub-manmadh55-181717?style=flat-square&logo=github" /></a>
-  <a href="https://linkedin.com/in/Gonela-Manmadh"><img src="https://img.shields.io/badge/LinkedIn-Gonela Manmadh-0A66C2?style=flat-square&logo=linkedin" /></a>
+  <a href="https://linkedin.com/in/gonela-manmadh"><img src="https://img.shields.io/badge/LinkedIn-Gonela Manmadh-0A66C2?style=flat-square&logo=linkedin" /></a>
   <a href="mailto:manmadhgonela@gmail.com"><img src="https://img.shields.io/badge/Email-manmadhgonela%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-India-blue?style=flat-square" />
 </p>
