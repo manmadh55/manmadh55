@@ -19,9 +19,8 @@
  
 ### AI / ML
  
-[![AI/ML](https://skillicons.dev/icons?i=py,sklearn,pycharm)](https://skillicons.dev)
+[![AI/ML](https://skillicons.dev/icons?i=py,sklearn,pycharm,numpy,pandas,streamlit)](https://skillicons.dev)
  
-`NumPy` `Pandas` `Streamlit`
  
 ### Frontend
  
