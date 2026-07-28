@@ -40,7 +40,7 @@
  
 ### Tools
  
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,c,windows)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,windows)](https://skillicons.dev)
  
 <br/>
 
