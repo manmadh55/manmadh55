@@ -39,7 +39,7 @@ Email Me 👉 ✉️ **manmadhgonela@gmail.com** for Collaboration/Projects or A
 
 <!-- Snake Game Repo View -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/manmadh55/manmadh55/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+ [ <img src="https://raw.githubusercontent.com/manmadh55/manmadh55/output/github-contribution-grid-snake.svg" alt="Snake animation" />](https://raw.githubusercontent.com/manmadh55/manmadh55/output/github-contribution-grid-snake.svg)
 </div>
 
 ## 📂 Featured Projects
