@@ -56,28 +56,6 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manmadh55&theme=radical" />
-<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manmadh55&theme=radical" />
-
-<br/>
-
-<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manmadh55&theme=radical" />
-<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manmadh55&theme=radical" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=manmadh55&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manmadh55&theme=radical&hide_border=true" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manmadh55&theme=radical&hide_border=true&layout=compact" width="48%" />
-
-</div>
 
 <br/>
 
