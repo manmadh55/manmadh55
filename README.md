@@ -1,176 +1,60 @@
-<h1 align="center">Hi 👋, I'm Manmadh Gonela</h1>
-<h3 align="center">ML Engineer | DevOps Engineer | MLOps Engineer | MERN Stack Developer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Building+intelligent+solutions+that+make+a+difference." alt="Typing SVG" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manmadh55&label=Profile%20views&color=0e75b6&style=flat" alt="manmadh55" /> </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Open%20to%20Work-brightgreen?style=flat-square" alt="Open to Work"/>
-</p>
+# 💫 Hi 👋, I'm Manmadh Gonela
+**A passionate ML Engineer || DevOps Engineer || MLOps Engineer || MERN Stack Developer from India**
 
-<p align="center">
-  <a href="https://github.com/manmadh55"><img src="https://img.shields.io/badge/GitHub-manmadh55-181717?style=flat-square&logo=github" /></a>
-  <a href="https://linkedin.com/in/gonela-manmadh"><img src="https://img.shields.io/badge/LinkedIn-Gonela Manmadh-0A66C2?style=flat-square&logo=linkedin" /></a>
-  <a href="mailto:manmadhgonela@gmail.com"><img src="https://img.shields.io/badge/Email-manmadhgonela%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-India-blue?style=flat-square" />
-</p>
+Email Me 👉 ✉️ **manmadhgonela@gmail.com** for Collaboration/Projects or Anything Else. 😊
 
----
+## 🔗 Connect with Me
 
-## 📋 About Me & 🏆 Achievements
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manmadh%20Gonela-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/gonela-manmadh) [![GitHub](https://img.shields.io/badge/GitHub-manmadh55-181717?logo=github&logoColor=white)](https://github.com/manmadh55) [![Gmail](https://img.shields.io/badge/Gmail-manmadhgonela%40gmail.com-red?logo=gmail&logoColor=white)](mailto:manmadhgonela@gmail.com)
 
-<table>
-<tr>
-<td valign="top" width="50%">
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=manmadh55&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 📘 About Me
-- 🎓 B.Tech CSE (3nd Year)
-- 🤖 Passionate about AI/ML and Full Stack Development
-- 🚀 I love building real-world projects that solve problems
+# 💻 Tech Stack:
 
-</td>
-<td valign="top" width="50%">
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/githubactions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-### 🏆 Achievements
-- 🥇 400+ DSA Problems Solved
-- 📂 5+ Projects Completed
-- 🤖 Built AI/ML Powered Apps
-- ⭐ 3+ GitHub Repositories
-- 🔥 Consistent Open Sourcer
+# 📊 GitHub Stats:
 
-</td>
-</tr>
-</table>
+<div align="center">
 
----
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manmadh55&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manmadh55&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manmadh55&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manmadh55&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manmadh55&theme=radical&utcOffset=8">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=manmadh55&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=manmadh55&theme=radical">
 
-## 🛠️ Tech Stack
+</div>
 
-**Languages**
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=manmadh55&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api?username=manmadh55&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=manmadh55&theme=dark&hide_border=false)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+</div><br>
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**AI / ML**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-DA1B60?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
+<!-- Snake Game Repo View -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/manmadh55/manmadh55/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ## 📂 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- ❤️ **[Heart Risk Analyzer](https://github.com/manmadh55)** — ML-based heart disease prediction system with SHAP explainability. `Python` `ML` `Streamlit`
+- 🧠 **[MindCare AI](https://github.com/manmadh55)** — AI-powered mental wellness platform with an intelligent assistant. `React` `MongoDB` `Gemini API`
+- 💼 **[Career Re-Entry Hub](https://github.com/manmadh55)** — Helping women restart their careers with AI-powered recommendations. `React` `Node.js` `MongoDB`
 
-### ❤️ Heart Risk Analyzer
-ML based heart disease prediction system with SHAP explainability.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gonela-manmadh) [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/manmadh55)
 
-`Python` `ML` `Streamlit`
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-</td>
-<td width="50%" valign="top">
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=manmadh55&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 🧠 MindCare AI
-AI-powered mental wellness platform with an intelligent assistant.
-
-`React` `MongoDB` `Gemini API`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💼 Career Re-Entry Hub
-Helping women restart their careers with AI-powered recommendations.
-
-`React` `Node.js` `MongoDB`
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manmadh55&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manmadh55&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=manmadh55&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manmadh55&theme=react-dark&hide_border=true" width="97%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="97%" alt="Contribution Snake" />
-</p>
-
----
-
-## 📚 Currently Learning
-- ✅ Spring Boot
-- ✅ System Design
-- ✅ Advanced DSA
-- ✅ Generative AI
-- ✅ AWS Cloud Basics
-
-## 🎯 Goals for 2026
-- ✅ Crack AI/ML Internship
-- ✅ Reach 600+ DSA Problems
-- ✅ Build 10 Production Projects
-- ✅ Contribute to Open Source
-- ✅ Master System Design
-- ✅ Learn DevOps & Cloud
-
----
-
-> "The best way to predict the future is to build it." — Peter Drucker
-
----
-
-<p align="center">
-⭐ Thanks for visiting my profile! If you like my work, consider giving a ⭐ to my repositories.
-<br/>
-Let's build something amazing together! 🚀
-</p>
+<!-- Inspired by GPRM ( https://gprm.itsvg.in ) -->
