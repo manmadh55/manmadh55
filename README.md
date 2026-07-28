@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Manmadh Gonela</h1>
-<h3 align="center">AI & Machine Learning Enthusiast | Java Developer | Full Stack Developer</h3>
+<h3 align="center">ML Engineer | DevOps Engineer | MLOps Engineer | MERN Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Building+intelligent+solutions+that+make+a+difference." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Building+intelligent+solutions+that+make+a+difference." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://github.com/manmadh55"><img src="https://img.shields.io/badge/GitHub-manmadh55-181717?style=flat-square&logo=github" /></a>
   <a href="https://linkedin.com/in/manmadh_gonela"><img src="https://img.shields.io/badge/LinkedIn-manmadh__gonela-0A66C2?style=flat-square&logo=linkedin" /></a>
-  <a href="mailto:manmadh55@gmail.com"><img src="https://img.shields.io/badge/Email-manmadh55%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:manmadhgonela@gmail.com"><img src="https://img.shields.io/badge/Email-manmadhgonela%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-India-blue?style=flat-square" />
 </p>
 
@@ -25,20 +25,18 @@
 <td valign="top" width="50%">
 
 ### 📘 About Me
-- 🎓 B.Tech CSE (2nd Year)
+- 🎓 B.Tech CSE (3nd Year)
 - 🤖 Passionate about AI/ML and Full Stack Development
 - 🚀 I love building real-world projects that solve problems
-- 📈 Always learning new things and improving every day
-- 🎯 Goal: To become a Software Engineer at a top product-based company
 
 </td>
 <td valign="top" width="50%">
 
 ### 🏆 Achievements
 - 🥇 400+ DSA Problems Solved
-- 📂 15+ Projects Completed
+- 📂 5+ Projects Completed
 - 🤖 Built AI/ML Powered Apps
-- ⭐ 5+ GitHub Repositories
+- ⭐ 3+ GitHub Repositories
 - 🔥 Consistent Open Sourcer
 
 </td>
@@ -123,14 +121,7 @@ Helping women restart their careers with AI-powered recommendations.
 `React` `Node.js` `MongoDB`
 
 </td>
-<td width="50%" valign="top">
 
-### 🌾 Rural Job Portal
-Connecting rural and semi-urban youth with job opportunities.
-
-`MERN` `MongoDB` `Express`
-
-</td>
 </tr>
 </table>
 
