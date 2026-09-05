@@ -2,162 +2,254 @@
 
 <img src="./assets/banner.svg" width="100%" alt="Manmadh Gonela Banner"/>
 
-<br/>
+<br/><br/>
 
-# 👋 Hi, I'm Manmadh Gonela
+<h1>👋 Hi, I'm Manmadh Gonela</h1>
 
-### 💻 Computer Science Student | SDE | AI/ML | Full-Stack Developer
+<h3>💻 Computer Science Student | SDE | AI/ML | Full-Stack Developer</h3>
 
 <p>
-Building practical applications with <b>Java, Spring Boot, React, Python, AI/ML and Cloud technologies.</b>
+Building real-world applications with <b>Java, Spring Boot, React, Python, AI/ML and Cloud technologies.</b>
 </p>
 
 <br/>
 
+<img src="https://komarev.com/ghpvc/?username=manmadh55&label=Profile%20Views&color=A78BFA&style=for-the-badge" alt="Profile Views"/>
+
 <a href="https://github.com/manmadh55">
-<img src="https://img.shields.io/badge/GitHub-Manmadh%20Gonela-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Manmadh55-181717?style=for-the-badge&logo=github"/>
 </a>
+
 <a href="https://linkedin.com/in/gonela-manmadh">
 <img src="https://img.shields.io/badge/LinkedIn-Manmadh%20Gonela-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:manmadhgonela@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=manmadh55&label=Profile%20Views&color=A78BFA&style=flat-square" alt="Profile Views"/>
-<img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat-square" alt="Open to Work"/>
+<img src="https://img.shields.io/badge/🚀_Open_to_Work-brightgreen?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a Computer Science student passionate about building **real-world software solutions** and solving problems through technology.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-My primary interests include:
+### 👋 Hello!
 
-* 💻 **Software Development & Backend Engineering**
-* ☕ **Java & Spring Boot**
-* 🌐 **MERN Stack Development**
-* 🤖 **Machine Learning & Artificial Intelligence**
-* 🧠 **Generative AI & RAG**
-* ☁️ **Cloud & DevOps**
-* 🧩 **Data Structures & Algorithms**
+I'm a Computer Science student passionate about building **real-world software applications** and solving problems through technology.
 
-I enjoy turning ideas into working applications while continuously improving my problem-solving and engineering skills.
+I enjoy working across **Software Development, Backend Engineering, Full-Stack Development and Artificial Intelligence.**
 
----
+My current focus is on becoming a strong **Software Development Engineer** while continuing to explore **Machine Learning and Generative AI**.
 
-## 🛠️ Tech Stack
+<br/>
 
-### 💻 Programming Languages
+💻 Java & Spring Boot
+🌐 MERN Stack
+🤖 Machine Learning & AI
+🧠 Generative AI & RAG
+🧩 Data Structures & Algorithms
+☁️ Cloud & DevOps
 
-<p align="center">
+</td>
 
-<img src="https://skillicons.dev/icons?i=java,python,js,c" />
+<td width="40%" valign="top">
 
-</p>
+### 🎯 Currently Focused On
 
-### 🎨 Frontend
+🌱 **Learning**
 
-<p align="center">
+* Data Structures & Algorithms
+* Java & Spring Boot
+* System Design
+* Advanced Machine Learning
+* Generative AI & RAG
+* Docker & Cloud
 
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+🚀 **Goal**
 
-</p>
+Become a strong **Backend / AI Engineer** and build scalable real-world applications.
 
-### ⚙️ Backend
+📍 **Location**
 
-<p align="center">
+India 🇮🇳
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,java" />
+📫 **Reach Me**
 
-</p>
+[manmadhgonela@gmail.com](mailto:manmadhgonela@gmail.com)
 
-### 🤖 AI / Machine Learning
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,sklearn,numpy,pandas,streamlit" />
-
-</p>
-
-### 🗄️ Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-
-</p>
-
-### ☁️ Cloud & DevOps
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,githubactions,aws,linux" />
-
-</p>
-
-### 🔧 Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
-
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔥 Featured Projects
+# 🛠️ Tech Stack
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-<h3>❤️ Heart Risk Analyzer</h3>
+### 💻 Languages
 
 <p>
-An ML-based heart disease risk prediction application with
-<strong>model explainability using SHAP</strong>.
+<img src="https://skillicons.dev/icons?i=java,python,js,c" />
 </p>
 
-<b>Tech Stack</b>
+</td>
 
-<br/><br/>
+<td width="50%" valign="top">
+
+### 🤖 AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,sklearn,numpy,pandas,streamlit" />
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,java" />
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☁️ DevOps / Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,aws,linux" />
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📚 Core CS
+
+<p>
+`DSA` `OOP` `DBMS` `SQL` `Operating Systems` `System Design`
+
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## ❤️ Heart Risk Analyzer
+
+ML-based heart disease risk prediction system with **SHAP explainability**.
+
+### Tech Stack
 
 `Python` `Scikit-learn` `Streamlit` `SHAP`
 
-<br/><br/>
+### Highlights
+
+* Machine Learning prediction
+* Model explainability
+* Interactive Streamlit interface
+* Data preprocessing & model evaluation
+
+<br/>
 
 <a href="https://github.com/manmadh55/Heart_Risk_Analyzer">
-🔗 <b>View Repository</b>
+
+<img src="https://img.shields.io/badge/🔗_View_Repository-181717?style=for-the-badge&logo=github"/>
+
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>🧠 MindCare AI</h3>
+## 🧠 MindCare AI
 
-<p>
-An AI-powered mental wellness platform featuring an intelligent
-assistant and a modern web interface.
-</p>
+AI-powered mental wellness platform with an intelligent assistant.
 
-<b>Tech Stack</b>
-
-<br/><br/>
+### Tech Stack
 
 `React` `MongoDB` `Gemini API`
 
-<br/><br/>
+### Highlights
+
+* AI-powered assistant
+* Modern React interface
+* MongoDB backend
+* AI-based user interaction
+
+<br/>
 
 <a href="https://github.com/manmadh55">
-🔗 <b>View Repository</b>
+
+<img src="https://img.shields.io/badge/🔗_View_Repository-181717?style=for-the-badge&logo=github"/>
+
 </a>
 
 </td>
@@ -168,40 +260,53 @@ assistant and a modern web interface.
 
 <td width="50%" valign="top">
 
-<h3>💼 Career Re-Entry Hub</h3>
+## 💼 Career Re-Entry Hub
 
-<p>
-An AI-powered platform designed to help professionals returning
-to the workforce discover career opportunities and recommendations.
-</p>
+AI-powered platform helping professionals restart their careers.
 
-<b>Tech Stack</b>
-
-<br/><br/>
+### Tech Stack
 
 `React` `Node.js` `MongoDB`
 
-<br/><br/>
+### Highlights
+
+* Career recommendations
+* AI-powered platform
+* Full-stack architecture
+* Career-focused solution
+
+<br/>
 
 <a href="https://github.com/manmadh55">
-🔗 <b>View Repository</b>
+
+<img src="https://img.shields.io/badge/🔗_View_Repository-181717?style=for-the-badge&logo=github"/>
+
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>🚀 More Projects</h3>
+## ✨ More Projects
 
-<p>
-I'm continuously building projects across
-<strong>Software Development, AI/ML and Full-Stack Development.</strong>
-</p>
+I'm continuously building projects across:
 
-<br/>
+`Software Development`
+
+`AI / ML`
+
+`Full-Stack Development`
+
+`Generative AI`
+
+`Backend Engineering`
+
+<br/><br/>
 
 <a href="https://github.com/manmadh55?tab=repositories">
-🔗 <b>Explore All Repositories →</b>
+
+<img src="https://img.shields.io/badge/🚀_Explore_All_Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </td>
@@ -211,69 +316,41 @@ I'm continuously building projects across
 
 ---
 
-## 📚 Currently Learning
 
-```text
-Data Structures & Algorithms
-        ↓
-Java & Spring Boot
-        ↓
-Backend Development
-        ↓
-System Design
-        ↓
-Advanced Machine Learning
-        ↓
-Generative AI & RAG
-        ↓
-Docker & Cloud
-```
+</div>
 
-I'm currently focused on strengthening my **DSA, backend engineering and system design fundamentals** while continuing to explore AI/ML and Generative AI.
 
----
-
-## 🎯 Career Interests
-
-I'm interested in opportunities related to:
-
-| Area                      | Focus                             |
-| ------------------------- | --------------------------------- |
-| 💻 Software Engineering   | Java • Spring Boot • Backend      |
-| 🌐 Full-Stack Development | React • Node.js • MongoDB         |
-| 🤖 AI / ML                | Machine Learning • Explainable AI |
-| 🧠 Generative AI          | LLMs • RAG • AI Applications      |
-| ☁️ Cloud & DevOps         | AWS • Docker • CI/CD              |
-
----
-
----
-
-## 🐍 Contribution Activity
+# 🐍 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/manmadh55/manmadh55/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="97%"/>
+<img src="https://raw.githubusercontent.com/manmadh55/manmadh55/output/github-contribution-grid-snake.svg" width="97%" alt="GitHub Contribution Snake"/>
 
 </div>
 
 ---
 
-## 💡 What I Believe
-
-> **Build. Learn. Break. Improve. Repeat.**
-
-I believe the best way to learn software engineering is by **building real projects, solving problems, and continuously improving.**
-
 ---
 
-## 🤝 Let's Connect
+# 💡 My Developer Journey
 
 <div align="center">
 
-I'm always open to connecting with developers, recruiters, and people working on interesting technology.
+> **Learn → Build → Deploy → Improve → Repeat 🔄**
 
-<br/><br/>
+I believe the best way to become a better engineer is to **build real projects, solve challenging problems, and keep learning every day.**
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+I'm always open to connecting with developers, recruiters and people working on interesting technology.
+
+<br/>
 
 <a href="https://github.com/manmadh55">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -284,19 +361,15 @@ I'm always open to connecting with developers, recruiters, and people working on
 </a>
 
 <a href="mailto:manmadhgonela@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-### ⭐ If you find my projects interesting, consider giving them a star!
+⭐ **If you find my projects interesting, consider giving them a star!**
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-### 💻 Keep Building. Keep Learning. Keep Growing. 🚀
+### 💻 Build. Learn. Innovate. 🚀
 
 </div>
