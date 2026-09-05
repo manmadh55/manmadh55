@@ -259,24 +259,6 @@ I'm interested in opportunities related to:
 
 ---
 
-## 🏆 Certifications & Achievements
-
-> Add your strongest certifications, hackathons, internships and technical achievements here.
-
-### 📜 Certifications
-
-* Machine Learning Specialization
-* Add your completed certifications here
-
-### 🏅 Achievements
-
-* Add hackathons
-* Add coding achievements
-* Add internships
-* Add notable projects
-
----
-
 ## 💡 What I Believe
 
 > **Build. Learn. Break. Improve. Repeat.**
