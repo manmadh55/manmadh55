@@ -247,24 +247,6 @@ I'm interested in opportunities related to:
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=manmadh55&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manmadh55&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=manmadh55&theme=tokyonight&hide_border=true" width="70%"/>
-
-</div>
-
 ---
 
 ## 🐍 Contribution Activity
