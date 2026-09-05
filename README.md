@@ -1,135 +1,338 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Manmadh Gonela banner"/>
+<img src="./assets/banner.svg" width="100%" alt="Manmadh Gonela Banner"/>
+
+<br/>
+
+# 👋 Hi, I'm Manmadh Gonela
+
+### 💻 Computer Science Student | SDE | AI/ML | Full-Stack Developer
+
+<p>
+Building practical applications with <b>Java, Spring Boot, React, Python, AI/ML and Cloud technologies.</b>
+</p>
+
+<br/>
+
+<a href="https://github.com/manmadh55">
+<img src="https://img.shields.io/badge/GitHub-Manmadh%20Gonela-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://linkedin.com/in/gonela-manmadh">
+<img src="https://img.shields.io/badge/LinkedIn-Manmadh%20Gonela-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:manmadhgonela@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=manmadh55&label=Profile%20Views&color=A78BFA&style=flat-square" alt="manmadh55" />
-<img src="https://img.shields.io/badge/-Open%20to%20Work-brightgreen?style=flat-square" alt="Open to Work"/>
-
-<a href="https://github.com/manmadh55"><img src="https://img.shields.io/badge/GitHub-manmadh55-181717?style=flat-square&logo=github" /></a>
-<a href="https://linkedin.com/in/gonela-manmadh"><img src="https://img.shields.io/badge/LinkedIn-Manmadh%20Gonela-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:manmadhgonela@gmail.com"><img src="https://img.shields.io/badge/Gmail-manmadhgonela%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=manmadh55&label=Profile%20Views&color=A78BFA&style=flat-square" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat-square" alt="Open to Work"/>
 
 </div>
 
-<br/>
+---
 
-## 💻 Languages and Tools
- 
-### AI / ML
- 
-[![AI/ML](https://skillicons.dev/icons?i=py,sklearn,pycharm,numpy,pandas,streamlit)](https://skillicons.dev)
- 
- 
-### Frontend
- 
-[![Frontend](https://skillicons.dev/icons?i=html,css,js,react,tailwind)](https://skillicons.dev)
- 
-### Backend
- 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,spring,java,firebase)](https://skillicons.dev)
- 
-### Database
- 
-[![Database](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
- 
-### DevOps / Cloud
- 
-[![DevOps](https://skillicons.dev/icons?i=docker,githubactions,aws,linux)](https://skillicons.dev)
- 
-### Tools
- 
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,windows)](https://skillicons.dev)
- 
-<br/>
+## 🚀 About Me
 
-## 💻 Tech Stack
+I'm a Computer Science student passionate about building **real-world software solutions** and solving problems through technology.
+
+My primary interests include:
+
+* 💻 **Software Development & Backend Engineering**
+* ☕ **Java & Spring Boot**
+* 🌐 **MERN Stack Development**
+* 🤖 **Machine Learning & Artificial Intelligence**
+* 🧠 **Generative AI & RAG**
+* ☁️ **Cloud & DevOps**
+* 🧩 **Data Structures & Algorithms**
+
+I enjoy turning ideas into working applications while continuously improving my problem-solving and engineering skills.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
 
 <p align="center">
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Spring Boot](https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/githubactions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,python,js,c" />
 
 </p>
 
-<br/>
+### 🎨 Frontend
 
+<p align="center">
 
-<br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 
-<!-- Snake Game Repo View -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/manmadh55/manmadh55/output/github-contribution-grid-snake.svg" alt="Snake animation" width="97%"/>
-</div>
+</p>
 
-<br/>
+### ⚙️ Backend
 
-## 📂 Featured Projects
+<p align="center">
 
-<table width="100%">
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,java" />
+
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,sklearn,numpy,pandas,streamlit" />
+
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,githubactions,aws,linux" />
+
+</p>
+
+### 🔧 Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
+
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+<table>
 <tr>
-<td width="33%" valign="top">
 
-### ❤️ Heart Risk Analyzer
-ML-based heart disease prediction system with SHAP explainability.
+<td width="50%" valign="top">
 
-`Python` `ML` `Streamlit`
+<h3>❤️ Heart Risk Analyzer</h3>
 
-[View Repo →](https://github.com/manmadh55)
+<p>
+An ML-based heart disease risk prediction application with
+<strong>model explainability using SHAP</strong>.
+</p>
+
+<b>Tech Stack</b>
+
+<br/><br/>
+
+`Python` `Scikit-learn` `Streamlit` `SHAP`
+
+<br/><br/>
+
+<a href="https://github.com/manmadh55/Heart_Risk_Analyzer">
+🔗 <b>View Repository</b>
+</a>
 
 </td>
-<td width="33%" valign="top">
 
-### 🧠 MindCare AI
-AI-powered mental wellness platform with an intelligent assistant.
+<td width="50%" valign="top">
+
+<h3>🧠 MindCare AI</h3>
+
+<p>
+An AI-powered mental wellness platform featuring an intelligent
+assistant and a modern web interface.
+</p>
+
+<b>Tech Stack</b>
+
+<br/><br/>
 
 `React` `MongoDB` `Gemini API`
 
-[View Repo →](https://github.com/manmadh55)
+<br/><br/>
+
+<a href="https://github.com/manmadh55">
+🔗 <b>View Repository</b>
+</a>
 
 </td>
-<td width="33%" valign="top">
 
-### 💼 Career Re-Entry Hub
-Helping women restart their careers with AI-powered recommendations.
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>💼 Career Re-Entry Hub</h3>
+
+<p>
+An AI-powered platform designed to help professionals returning
+to the workforce discover career opportunities and recommendations.
+</p>
+
+<b>Tech Stack</b>
+
+<br/><br/>
 
 `React` `Node.js` `MongoDB`
 
-[View Repo →](https://github.com/manmadh55)
+<br/><br/>
+
+<a href="https://github.com/manmadh55">
+🔗 <b>View Repository</b>
+</a>
 
 </td>
-</tr>
-</table>
+
+<td width="50%" valign="top">
+
+<h3>🚀 More Projects</h3>
+
+<p>
+I'm continuously building projects across
+<strong>Software Development, AI/ML and Full-Stack Development.</strong>
+</p>
 
 <br/>
 
-## ✍️ Random Dev Quote
+<a href="https://github.com/manmadh55?tab=repositories">
+🔗 <b>Explore All Repositories →</b>
+</a>
 
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+</td>
 
+</tr>
+</table>
 
+---
+
+## 📚 Currently Learning
+
+```text
+Data Structures & Algorithms
+        ↓
+Java & Spring Boot
+        ↓
+Backend Development
+        ↓
+System Design
+        ↓
+Advanced Machine Learning
+        ↓
+Generative AI & RAG
+        ↓
+Docker & Cloud
+```
+
+I'm currently focused on strengthening my **DSA, backend engineering and system design fundamentals** while continuing to explore AI/ML and Generative AI.
+
+---
+
+## 🎯 Career Interests
+
+I'm interested in opportunities related to:
+
+| Area                      | Focus                             |
+| ------------------------- | --------------------------------- |
+| 💻 Software Engineering   | Java • Spring Boot • Backend      |
+| 🌐 Full-Stack Development | React • Node.js • MongoDB         |
+| 🤖 AI / ML                | Machine Learning • Explainable AI |
+| 🧠 Generative AI          | LLMs • RAG • AI Applications      |
+| ☁️ Cloud & DevOps         | AWS • Docker • CI/CD              |
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=manmadh55&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manmadh55&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=manmadh55&theme=tokyonight&hide_border=true" width="70%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/manmadh55/manmadh55/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="97%"/>
+
+</div>
+
+---
+
+## 🏆 Certifications & Achievements
+
+> Add your strongest certifications, hackathons, internships and technical achievements here.
+
+### 📜 Certifications
+
+* Machine Learning Specialization
+* Add your completed certifications here
+
+### 🏅 Achievements
+
+* Add hackathons
+* Add coding achievements
+* Add internships
+* Add notable projects
+
+---
+
+## 💡 What I Believe
+
+> **Build. Learn. Break. Improve. Repeat.**
+
+I believe the best way to learn software engineering is by **building real projects, solving problems, and continuously improving.**
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always open to connecting with developers, recruiters, and people working on interesting technology.
+
+<br/><br/>
+
+<a href="https://github.com/manmadh55">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/gonela-manmadh">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:manmadhgonela@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### ⭐ If you find my projects interesting, consider giving them a star!
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Keep Building. Keep Learning. Keep Growing. 🚀
+
+</div>
